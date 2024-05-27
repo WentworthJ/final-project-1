@@ -1,9 +1,7 @@
-# React + Vite
+# Final Project Discription
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A website for a story i'm writing as an easily accessible way of veiwing information about important characters and places.
+# TODO
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# final-project-1
+Add most of the code
+Add js buttons for changing images.
